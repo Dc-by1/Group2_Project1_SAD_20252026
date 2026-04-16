@@ -29,7 +29,7 @@ The system aims to enhance the efficiency, accessibility, and user experience of
 
 * Login Authentication
 * Live Bus Tracking
-* Seat Booking
+* Seat availability Monitor 
 * Carpool
 * Smart Route Planning
 * Feedback & Rating
