@@ -7,6 +7,6 @@ All individual parts uploaded here will eventually be compiled into our Final Ph
 ### 🔍 View Our Report
 You can access the latest version of our report directly on GitHub via link below:
 
- - 🔗[Phase 1 Report】
+ - 🔗[Phase 1 Report](https://github.com/Dc-by1/Group2_Project1_SAD_20252026/blob/main/Project%20Phase%201/Phase%201%20Report/SAD%20Project%201%20(Project%20Proposal%20%26%20Planning).pdf)
 
 
