@@ -51,7 +51,7 @@ The system aims to enhance the efficiency, accessibility, and user experience of
 
 ## 📊 Project Status
 
-🟢 Phase 1: Proposal & Planning 
+🟢 Phase 1: Proposal & Planning \
 🟢 Phase 2: Information System Gathering and Requirement 
    - Kindly check the progress here: [Kanban Board](https://github.com/users/Dc-by1/projects/1)
 
